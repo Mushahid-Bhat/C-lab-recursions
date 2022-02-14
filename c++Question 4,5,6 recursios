@@ -1,0 +1,33 @@
+
+// Q4  Explain the use of a stack in recursion?
+
+Ans:Recursive functions use something called “the call stack.” When a program calls a function, that function goes on top of the call stack. This similar to a stack of books. You add things 
+
+one at a time. Then, when you are ready to take something off, you always take off the top item.
+
+
+// Q5  Which is generally more efficient, recursion or iteration?
+
+Ans: A program is called recursive when an entity calls itself. A program is call iterative when there is a loop (or repetition).
+
+Usage: Usage of either of these techniques is a trade-off between time complexity and size of code. If time complexity is the point of focus, and number of recursive calls would be 
+
+large, it is better to use iteration. However, if time complexity is not an issue and shortness of code is, recursion would be the way to go.
+
+// Q5  Which is generally more efficient, recursion or iteration?
+
+Ans: A program is called recursive when an entity calls itself. A program is call iterative when there is a loop (or repetition).
+
+Usage: Usage of either of these techniques is a trade-off between time complexity and size of code. If time complexity is the point of focus, and number of recursive calls would be 
+
+large, it is better to use iteration. However, if time complexity is not an issue and shortness of code is, recursion would be the way to go.
+
+
+// Q6 Which control statement do you typically find in a recursive function?
+
+Ans:IF ELSE control statment is  typically found in a recursive function.
+
+A C++ control statement redirects the flow of a program in order to execute additional code. These statements come in the form of conditionals (if-else, switch) and loops
+
+ (for, while, do-while). Each of them relies on a logical condition that evaluates to a boolean value in order to run one piece of code over another.
+
